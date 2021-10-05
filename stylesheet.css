@@ -24,6 +24,7 @@ html, body {
     padding:10px 15px;
     height:90px;
     font-size:30px;
+    max-width:30%;
     left:100px;
     font-family:Georgia, serif, 'Times New Roman', Times;
     box-sizing:border-box;
